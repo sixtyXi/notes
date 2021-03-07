@@ -1,0 +1,25 @@
+{Мат ладьей и королем}
+[Event "Играть с компьютером"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "?"]
+[White "Karaulov_Sergei"]
+[Black "Maximum"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/8/8/8/8/8/R6K w - - 0 1"]
+[TimeControl "-"]
+*
+
+[Event "Играть с компьютером"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "?"]
+[White "Karaulov_Sergei"]
+[Black "Maximum"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/8/8/8/4K2R w - - 0 1"]
+[TimeControl "-"]
+
+*
